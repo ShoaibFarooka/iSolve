@@ -1,0 +1,10 @@
+.fixed-content {
+  height: 550px;
+  position: -webkit-sticky;
+  position: fixed;
+  bottom: 0px;
+  z-index: -999;
+}
+@media only screen and (max-width: 768px) {
+  
+}
